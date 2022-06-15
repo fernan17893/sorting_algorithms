@@ -2,10 +2,8 @@
 
 /**
 *
-*
-*
-*
-*
+* insertion_sort_list - sorts a doubly linked list in ascending order
+* @list : dobly linked list
 *
 */
 
@@ -41,4 +39,4 @@ listint_t *temp, *head;
 			head = head->next;
 		}
 	}
-}	
+}
